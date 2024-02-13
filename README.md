@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NetraNB
+- 👋 Hi, I’m NetraNB
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA in C++
 - 💞️ I’m looking to collaborate on ...
