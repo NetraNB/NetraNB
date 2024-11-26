@@ -1,6 +1,6 @@
 - 👋 Hi, I’m NetraNB
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning DSA in C++
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m practicing Power BI, SQL, Python, Tablue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Netra
